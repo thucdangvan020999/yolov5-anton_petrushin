@@ -13,7 +13,7 @@
 *.TIF
 *.TIFF
 *.HEIC
-# *.mp4
+*.mp4
 *.mov
 *.MOV
 *.avi
@@ -27,6 +27,7 @@ storage.googleapis.com
 runs/*
 data/*
 data/images/*
+data/videos/*
 !data/*.yaml
 !data/hyps
 !data/scripts
