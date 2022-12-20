@@ -28,6 +28,7 @@ runs/*
 data/*
 data/images/*
 data/videos/*
+!data/videos/sampleVideo0.mp4
 !data/*.yaml
 !data/hyps
 !data/scripts
