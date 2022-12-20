@@ -44,7 +44,7 @@ st.markdown(
 #--------------------------------------------------------------------------------
 
 DEMO_VIDEO = os.path.join('data', 'videos', 'sampleVideo0.mp4')
-DEMO_PIC = os.path.join('data', 'images', 'bus.jpg')
+DEMO_PIC = os.path.join('data', 'images', 'anton.jpg')
 
 def get_subdirs(b='.'):
     '''
