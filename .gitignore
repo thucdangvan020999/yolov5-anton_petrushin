@@ -258,3 +258,5 @@ crashlytics-build.properties
 fabric.properties
 
 dvc_data
+
+data_dvc
