@@ -1,0 +1,5 @@
+outs:
+    - md5: c1b61f5890769eb1e4b20a75c3b0bf75.dir
+      size: 6007970
+      path: dvc_data
+      nfiles: 20
